@@ -59,7 +59,7 @@ EXPERIMENT-4 {SELECTION_SORT}
 
 ![SELECTION_SORT SS](https://user-images.githubusercontent.com/108262513/234055526-dd9592c9-9e43-432a-9283-fd106a332a4c.jpg)
 
-EXPERIMENT-5 {INDEX FIND} 
+EXPERIMENT-5 {BINARY SEARCH} 
 
 1. Define a function named binarySearch that takes four arguments: an integer array array, two integers start_index and end_index, and an integer element to search.
 2. While the start_index is less than or equal to end_index, repeat the following steps:
