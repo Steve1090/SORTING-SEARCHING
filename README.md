@@ -15,7 +15,8 @@ EXPERIMENT-1 {BASIC SEARCHING}
 9. Else display a message "Number not found".
 10. End the program.
 
-![SSALGO SS](https://user-images.githubusercontent.com/108262513/234001229-22abe910-70df-49d4-8bf5-e1fe0f83d472.PNG)
+![SSALGO SS](https://user-images.githubusercontent.com/108262513/234058763-850b9eac-53fe-45de-b76e-cc73b2a172b0.jpg)
+
 
 EXPERIMENT-2 {BUBBLE SORT}
 
