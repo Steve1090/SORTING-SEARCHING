@@ -75,4 +75,4 @@ d. Otherwise, update end_index = middle - 1.
 8. End. 
 
 
-![SSALGO SS](https://user-images.githubusercontent.com/108262513/234067406-f3062dbe-276b-4961-901b-8de1d152d863.jpg)
+![INDEXING](https://user-images.githubusercontent.com/108262513/234067705-fae7867f-3e36-491b-a3bc-434a500244a0.jpg)
