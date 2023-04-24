@@ -33,3 +33,19 @@ EXPERIMENT-2 {BUBBLE SORT}
 12. End the program.
 
 ![BUBBLE SORT](https://user-images.githubusercontent.com/108262513/234008990-a501d667-8096-4340-8732-5a1f294bd58a.jpg)
+
+EXPERIMENT-3 {}
+
+1. Start
+2. Initiate the function del(arr, n, k), n is the number of elements in the array, and k is the element to be deleted.
+3. Traverse through the array from the first element to the last element.
+3. If the element at the current index is equal to k, then start another loop to shift all the elements from the current index to the last index to the left by one position.
+4. Assign the value of the next element to the current index.
+5. Continue step 4 until the last element of the array is reached.
+6. Print the array after the deletion of the element k.
+7. Stop 
+
+![DELETION ](https://user-images.githubusercontent.com/108262513/234051060-42daa384-820c-4007-84b1-3a2ee25d8c63.jpg)
+
+
+
