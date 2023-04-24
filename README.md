@@ -34,7 +34,7 @@ EXPERIMENT-2 {BUBBLE SORT}
 
 ![BUBBLE SORT](https://user-images.githubusercontent.com/108262513/234008990-a501d667-8096-4340-8732-5a1f294bd58a.jpg)
 
-EXPERIMENT-3 {}
+EXPERIMENT-3 {DELETION}
 
 1. Start
 2. Initiate the function del(arr, n, k), n is the number of elements in the array, and k is the element to be deleted.
@@ -47,5 +47,15 @@ EXPERIMENT-3 {}
 
 ![DELETION ](https://user-images.githubusercontent.com/108262513/234051060-42daa384-820c-4007-84b1-3a2ee25d8c63.jpg)
 
+EXPERIMENT-4 {SELECTION_SORT}
+1. Start
+2. Initialize an array of integers to be sorted.
+3. For each element in the array, find the smallest element in the remaining unsorted portion of the array.
+4. Swap the current element with the smallest element found in step 2.
+5. Repeat steps 2-3 until the entire array is sorted.
+6. End 
+
+
+![SELECTION_SORT SS](https://user-images.githubusercontent.com/108262513/234055526-dd9592c9-9e43-432a-9283-fd106a332a4c.jpg)
 
 
