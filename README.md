@@ -59,4 +59,20 @@ EXPERIMENT-4 {SELECTION_SORT}
 
 ![SELECTION_SORT SS](https://user-images.githubusercontent.com/108262513/234055526-dd9592c9-9e43-432a-9283-fd106a332a4c.jpg)
 
+EXPERIMENT-5 {INDEX FIND} 
 
+1. Define a function named binarySearch that takes four arguments: an integer array array, two integers start_index and end_index, and an integer element to search.
+2. While the start_index is less than or equal to end_index, repeat the following steps:
+a. Calculate the middle index of the array as middle = start_index + (end_index - start_index) / 2.
+b. If the middle element of the array array[middle] is equal to element, return middle.
+c. If the middle element of the array array[middle] is less than element, update start_index = middle + 1.
+d. Otherwise, update end_index = middle - 1.
+3. If the element is not found in the array, return -1.
+4. Define the main function that initializes an array array and its size n, and the element to search for.
+5. Call the binarySearch function with the array, start index 0, end index n-1, and element as arguments.
+6. If the binarySearch function returns -1, print "Element not found in the array".
+7. Otherwise, print "Element found at index: " followed by the index returned by binarySearch function.
+8. End. 
+
+
+![SSALGO SS](https://user-images.githubusercontent.com/108262513/234067406-f3062dbe-276b-4961-901b-8de1d152d863.jpg)
