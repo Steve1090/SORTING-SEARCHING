@@ -1,3 +1,4 @@
+
 # SORTING-SEARCHING
 This repositroy contains C programming codes for searching and sorting. 
 
@@ -31,3 +32,4 @@ EXPERIMENT-2 {BUBBLE SORT}
 11. Then call the disp function to display the sorted array.
 12. End the program.
 
+![BUBBLE SORT](https://user-images.githubusercontent.com/108262513/234008990-a501d667-8096-4340-8732-5a1f294bd58a.jpg)
